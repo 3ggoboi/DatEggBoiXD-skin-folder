@@ -17,7 +17,7 @@
 ![alt text](https://skins.osuck.net/uploads/posts/2020-04/1585899514_4.jpg)
 
 # [--#Hoshimachi Suisei#-- {STD only|16:9}](https://www.dropbox.com/s/b4curuow8lrb34t/--%23%20%20Hoshimachi%20Suisei%20%20%23--.osk?dl=0)
-![alt text](https://external-preview.redd.it/ftB9KfcopeJfMiLzFLEysdCSE3L_V0wT-MHjl8GNEKs.jpg?auto=webp&s=4046631cd878d0feccac5a6f73842dc1ba55707c)
+![alt text](https://i.imgur.com/ZKgFeEB.png)
 
 # [Miku Galaxy by Shikima](https://skins.osuck.net/index.php?newsid=840)
 ![alt text](https://skins.osuck.net/uploads/posts/2019-06/1559562193_screenshot5308.jpg)
