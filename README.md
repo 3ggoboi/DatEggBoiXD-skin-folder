@@ -1,11 +1,15 @@
-# DatEggBoiXD osu skins! 
+# comfi_yuki osu skins! 
 
-# These are all the skins used by DatEggBoiXD in his osu streams/videos.
+# These are all the skins used by comfi_yuki in his osu streams/videos.
  
-# If there is a skin you can't find here or you are having some problems, you can try asking in the #osu chat in Eggboi's [discord server](https://discord.gg/v5dy6naAxE).
-
 ###### MM/DD/YY Update #: "Update Description"
-###### 04/06/2021 Update #4: Added "WhiteCat, Okayu & Fubuki skin" & updated desc.
+###### 09/11/2021 Update #5: Added "[HoloEN] ~Calli~" and "BTMC | FREEDOM DiVE↓" skin and updated name/desc.
+
+# [[HoloEN] ~Calli~](https://www.reddit.com/r/OsuSkins/comments/kqapnx/holoen_calli_hdsd_60fps/)
+![alt text](https://i.imgur.com/lJW8i1R.jpeg)
+
+# [BTMC | FREEDOM DiVE↓](https://www.reddit.com/r/OsuSkins/comments/mnqqc6/btmc_freedom_dive_169stdsdhd/)
+![alt text](https://i.imgur.com/4fY735j.jpeg)
 
 # [WhiteCat {1.0} (CK)](https://skins.osuck.net/index.php?newsid=1107)
 ![alt text](https://skins.osuck.net/uploads/posts/2019-11/1573897221_3.jpg)
