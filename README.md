@@ -5,7 +5,7 @@
 ###### MM/DD/YY Update #: "Update Description"
 ###### 09/11/2021 Update #5: Added "[HoloEN] ~Calli~" and "BTMC | FREEDOM DiVE↓" skin and updated name/desc.
 
-# [[HoloEN] ~Calli~](https://www.reddit.com/r/OsuSkins/comments/kqapnx/holoen_calli_hdsd_60fps/)
+# [[HoloEN] Calli](https://www.reddit.com/r/OsuSkins/comments/kqapnx/holoen_calli_hdsd_60fps/)
 ![alt text](https://i.imgur.com/lJW8i1R.jpeg)
 
 # [BTMC | FREEDOM DiVE↓](https://www.reddit.com/r/OsuSkins/comments/mnqqc6/btmc_freedom_dive_169stdsdhd/)
