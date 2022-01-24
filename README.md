@@ -1,10 +1,10 @@
-# comfi_yuki osu skins! 
+# comfi_yuki's osu skin folder! 
 
 # These are all the skins used by comfi_yuki in his osu streams/videos.
 ### Note that some skins may be edited by Yuki himself and might look different when you download it yourself. 
 
 ###### MM/DD/YY Update #: "Update Description"
-###### 01/24/2022 Update #6: Added 3 new skins (1 Neko Cytus skin and 2 Nue Houjuu skins) as well as edited desc.
+###### 01/24/2022 Update #6: Added 3 new skins (1 Neko Cytus skin and 2 Nue Houjuu skins).
 
 # [東方Project Nue's Galaxy Collapse](https://www.reddit.com/r/OsuSkins/comments/j5e88o/東方project_nues_galaxy_collapse_hdstd169/)
 ![alt text](https://i.imgur.com/1pc5wlO.jpeg)
