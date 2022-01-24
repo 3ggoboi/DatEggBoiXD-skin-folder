@@ -1,9 +1,19 @@
 # comfi_yuki osu skins! 
 
 # These are all the skins used by comfi_yuki in his osu streams/videos.
- 
+### Note that some skins may be edited by Yuki himself and might look different when you download it yourself. 
+
 ###### MM/DD/YY Update #: "Update Description"
-###### 09/11/2021 Update #5: Added "[HoloEN] Calli" and "BTMC | FREEDOM DiVE↓" skin and updated name/desc.
+###### 01/24/2022 Update #6: Added 3 new skins (1 Neko Cytus skin and 2 Nue Houjuu skins) as well as edited desc.
+
+# [東方Project Nue's Galaxy Collapse](https://www.reddit.com/r/OsuSkins/comments/j5e88o/東方project_nues_galaxy_collapse_hdstd169/)
+![alt text](https://i.imgur.com/1pc5wlO.jpeg)
+
+# [#N Neko cytus 2](https://skins.osuck.net/index.php?newsid=1603)
+![alt text](https://skins.osuck.net/uploads/posts/2020-09/1600017010_screenshot9453.jpg)
+
+# [Touhou Project - Nue Houjuu](https://osu.ppy.sh/community/forums/topics/1078498?n=1)
+![alt text](https://i.ppy.sh/318eb0443e51a2b823af746aa137584a72f75db3/68747470733a2f2f692e696d6775722e636f6d2f427075315755542e6a7067)
 
 # [[HoloEN] Calli](https://www.reddit.com/r/OsuSkins/comments/kqapnx/holoen_calli_hdsd_60fps/)
 ![alt text](https://i.imgur.com/lJW8i1R.jpeg)
