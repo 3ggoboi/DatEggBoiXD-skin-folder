@@ -4,10 +4,25 @@
 ### Note that some skins may be edited by DatEggBoiXD himself and might look different when you download it yourself. 
 
 ###### MM/DD/YY Update #: "Update Description"
-###### 06/24/2024 Update #8: Fixed broken image links
+###### 06/24/2024 Update #9: Added 5 new skins
+
+# [[Hololive] Hoshimachi Suisei 星街すいせい](https://www.reddit.com/r/OsuSkins/comments/n861h3/hololive_hoshimachi_suisei_星街すいせい/)
+![alt text](https://i.imgur.com/84ZyYH3.jpeg)
+
+# [Needy Girl Overdose Osu Skin [STD/FRUITS] [HD] [@2X only]](https://osu.ppy.sh/community/forums/topics/1925369?n=1)
+![alt text](https://i.ppy.sh/8d84a85953f1a87bfe4ed3b90126390adff7626f/68747470733a2f2f692e6962622e636f2f574636777447702f6f73752d49652d4855426e6a6235322d726573756c742e77656270)
+
+# [「sigma」- echoing inside [16:9][std/ctb/mania][HD/SD]](https://osu.ppy.sh/community/forums/topics/1925867?n=1)
+![alt text](https://i.imgur.com/J4ukNYA.png)
+
+# [Cherry Corolla](https://osu.ppy.sh/community/forums/topics/1912102?n=1)
+![alt text](https://i.imgur.com/22n6DH1.png)
 
 # [東方Project Nue's Galaxy Collapse](https://www.reddit.com/r/OsuSkins/comments/j5e88o/東方project_nues_galaxy_collapse_hdstd169/)
 ![alt text](https://i.imgur.com/1pc5wlO.jpeg)
+
+# [天空の ROSE - Hoshimachi Suisei v1.0](https://skins.osuck.net/skins/2532?v=0)
+![alt text](https://files.osuck.link/images/skins/1786ed59c66036520c82ddece65ee12f.webp)
 
 # [#N Neko cytus 2](https://skins.osuck.net/index.php?newsid=1603)
 ![alt text](https://files.osuck.link/images/skins/e168375969b02ef9aeffca0495c647ee.webp)
