@@ -4,7 +4,7 @@
 ### Note that some skins may be edited by DatEggBoiXD himself and might look different when you download it yourself. 
 
 ###### MM/DD/YY Update #: "Update Description"
-###### 06/24/2024 Update #9: Added 5 new skins
+###### 06/25/2024 Update #10: Added Cirno V1.1
 
 # [[Hololive] Hoshimachi Suisei 星街すいせい](https://www.reddit.com/r/OsuSkins/comments/n861h3/hololive_hoshimachi_suisei_星街すいせい/)
 ![alt text](https://i.imgur.com/84ZyYH3.jpeg)
@@ -29,6 +29,9 @@
 
 # [Touhou Project - Nue Houjuu](https://osu.ppy.sh/community/forums/topics/1078498?n=1)
 ![alt text](https://i.ppy.sh/6ba59d8014ffb2872b0b79d6b1962df5ce79ebb2/68747470733a2f2f696d6775722d617263686976652e7070792e73682f427075315755542e6a7067)
+
+# [Cirno V1.1](https://skins.osuck.net/skins/2056?v=0)
+![alt text](https://files.osuck.link/images/skins/086c65fb5c3b4ddebdc529e059dba928.webp)
 
 # [[HoloEN] Calli](https://www.reddit.com/r/OsuSkins/comments/kqapnx/holoen_calli_hdsd_60fps/)
 ![alt text](https://i.imgur.com/lJW8i1R.jpeg)
